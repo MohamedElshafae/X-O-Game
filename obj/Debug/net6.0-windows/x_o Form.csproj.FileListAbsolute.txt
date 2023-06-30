@@ -1,0 +1,42 @@
+D:\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.exe
+D:\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.deps.json
+D:\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.runtimeconfig.json
+D:\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.dll
+D:\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.pdb
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.csproj.AssemblyReference.cache
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.Form1.resources
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.Properties.Resources.resources
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.csproj.GenerateResource.cache
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.AssemblyInfoInputs.cache
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.AssemblyInfo.cs
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.csproj.CoreCompileInputs.cache
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.dll
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\refint\x_o Form.dll
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.pdb
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.genruntimeconfig.cache
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\ref\x_o Form.dll
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.Form2.resources
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.gamseTo Win.resources
+D:\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.WinnerScore.resources
+D:\Projects\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.exe
+D:\Projects\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.deps.json
+D:\Projects\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.runtimeconfig.json
+D:\Projects\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.dll
+D:\Projects\x_o Form\x_o Form\bin\Debug\net6.0-windows\x_o Form.pdb
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.csproj.AssemblyReference.cache
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.Form1.resources
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.Form2.resources
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.gamseTo Win.resources
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.Properties.Resources.resources
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o_Form.WinnerScore.resources
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.csproj.GenerateResource.cache
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.AssemblyInfoInputs.cache
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.AssemblyInfo.cs
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.csproj.CoreCompileInputs.cache
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.dll
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\refint\x_o Form.dll
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.pdb
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\x_o Form.genruntimeconfig.cache
+D:\Projects\x_o Form\x_o Form\obj\Debug\net6.0-windows\ref\x_o Form.dll
